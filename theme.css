@@ -1,0 +1,116 @@
+.mono {
+    font-family: 'SFMono';
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    /* background-color: #c7edff; */
+    background-color: #303030;
+    color: white;
+}
+
+header {
+    text-align: center;
+    display: block;
+}
+
+#container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#name {
+    font-weight: 450;
+    font-size: 48px;
+    display: block;
+    margin: 64px auto 0 auto;
+    max-width: 500px;
+}
+
+#tagline {
+    min-height: 20px;
+    margin: 4px auto 0 auto;
+    font-size: 20px;
+    color: #ccc;
+    max-width: 500px;
+}
+
+nav {
+    margin: 8px 0;
+    padding: 0;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+}
+
+.navlink {
+    text-decoration: none;
+    color: #ccc;
+    padding: 8px 4px;
+    display: block;
+}
+
+.navlink:hover {
+    transition-duration: 0.25s;
+    color: black;
+    background-color: #ccc;
+  }
+
+#navigation {
+    list-style-type: none;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+#navigation li {
+    display: inline-block;
+    width: 20%;
+    font-size: 20px;
+}
+
+#senpic {
+    border: 1px solid #ccc;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    float: center;
+}
+
+#blurb {
+    max-width: 600px;
+    font-weight: 350;
+    font-size: 16px;
+}
+
+#blurb a {
+    font-weight: 600;
+    text-decoration: none;
+    color: #b5beff;
+}
+
+#blurb a:hover {
+    text-decoration: underline;
+}
+
+#blurb p {
+    text-indent: 32px;
+}
+
+.tile {
+    float: left;
+    width: 250px;
+    margin: 0 10px 0 10px;
+    height: 350px;
+}
+
+.tile img {
+    width: 100%;
+    border: 1px solid #ccc;
+    margin: 0 auto;
+    display: block;
+    border-radius: 10px
+}
+
+.tile p {
+    font-weight: 350;
+}

@@ -114,3 +114,27 @@ nav {
 .tile p {
     font-weight: 350;
 }
+
+.calm {
+    color: #ccc;
+}
+
+.lightmath {
+    color: #77aeff;
+}
+
+.darkmath {
+    color: #3286ff;
+}
+
+.econ {
+    color: #ff9838;
+}
+
+.phys {
+    color: #6d52ff;
+}
+
+.cs {
+    color: #df89db;
+}

@@ -119,12 +119,8 @@ nav {
     color: #ccc;
 }
 
-.lightmath {
+.math {
     color: #77aeff;
-}
-
-.darkmath {
-    color: #3286ff;
 }
 
 .econ {
@@ -132,7 +128,7 @@ nav {
 }
 
 .phys {
-    color: #6d52ff;
+    color: #a676ff;
 }
 
 .cs {

@@ -6,22 +6,23 @@
     <title>Courses - Bradley McGhee</title>
     <link rel="stylesheet" href="fonts.css">
     <link rel="stylesheet" href="theme.css">
+    
     <style>
-        code{white-space:× pre-wrap;}
-        span.smallcaps{font-variant: small-caps;}
-        div.columns{display: flex; gap: min(4vw, 1.5em);}
-        div.column{flex: auto; overflow-x: auto;}
-        div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-        /* The extra [class] is a hack that increases specificity enough to
-        override a similar rule in reveal.js */
-        ul.task-list[class]{list-style: none;}
-        ul.task-list li input[type="checkbox"] {
-        font-size: inherit;
-        width: 0.8em;
-        margin: 0 0.8em 0.2em -1.6em;
-        vertical-align: middle;
+        .math {
+    color: #77aeff;
         }
-        .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+
+        .econ {
+            color: #ff9838;
+        }
+
+        .phys {
+            color: #a676ff;
+        }
+
+        .cs {
+            color: #df89db;
+        }
     </style>
 </head>
 
@@ -29,84 +30,95 @@
     <div id="container">
         <header>
             <h1 id="name">Bradley J. McGhee</h1>
-            <div id="tagline">getting through Georgia Tech</div>
+            <div id="tagline">mathematics student at Georgia Tech</div>
             <br>
             <nav>
                 <ul id="navigation">
-                    <li><a class="navlink" href="./index.html">about</a></li>
-                    <li><a class="navlink" href="./resume.pdf">resume</a></li>
-                    <li><a class="navlink" href="./gallery.html">gallery</a></li>
-                    <li><a class="navlink" href="./courses.html">courses</a></li>
+                    <li><a href="./index.html">about</a></li>
+                    <li><a href="./resume.pdf">resume</a></li>
+                    <li><a>links</a>
+                        <ul id="submenu">
+                            <li><a href="https://linkedin.com/in/bjmcghee">linkedin</a></li>
+                            <li><a href="https://github.com/nptnl">github</a></li>
+                            <li><a href="https://wellfound.com/u/bradley-mcghee">wellfound</a></li>
+                        </ul>
+                    </li>
+                    <li><a>stuff</a>
+                        <ul id="submenu">
+                        <li> <a href="./gallery.html">gallery</a> </li>
+                        <li> <a href="./courses.html">courses</a> </li>
+                        <li> <a href="./books.html">reading</a> </li>
+                    </ul>
+                </li>
                 </ul>
               </nav>
         </header>
         <br> <br>
+        <h2>A list of courses I've taken at Georgia Tech</h2>
+        <p style="font-weight: 600;"> color code:
+            <span class="math">Mathematics</span> |
+            <span class="phys">Physics</span> |
+            <span class="cs">Computer Science</span> |
+            <span class="econ">Economics</span> | 
+            <span class="calm">other</span>
+        </p>
+        <table>
+            <tbody>
+                <tr> <td colspan="2" style="font-weight:bold;">credits before Summer 2024</td> </tr>
+                <tr> <td class="mono math">MATH 1551</td> <td>Differential Calculus</td> </tr>
+                <tr> <td class="mono math">MATH 1552</td> <td>Integral Calculus</td> </tr>
+                <tr> <td class="mono phys">PHYS 2211</td> <td>Introductory Physics I</td> </tr>
+                <tr> <td class="mono phys">PHYS 2212</td> <td>Introductory Physics II</td> </tr>
+                <tr class="calm"> <td class="mono">HIST 2111</td> <td>United States to 1877</td> </tr>
+                <tr class="calm"> <td class="mono">PSYC 1101</td> <td>General Psychology</td> </tr>
+                <tr class="calm"> <td class="mono">CHEM 1211K</td> <td>Chemical Principles I</td> </tr>
+                <tr> <td class="mono cs">&nbsp&nbspCS 1XXX</td> <td>[Computer Science elective]</td> </tr>
+                <tr> <td class="mono phys">PHYS 1XXX</td> <td>[Physics elective]</td> </tr>
+                <tr> <td class="mono math">MATH 1554</td> <td>Linear Algebra</td></tr>
+                <tr> <td class="mono math">MATH 2551</td> <td>Multivariable Calculus</td></tr>
+                
+                <tr><td colspan="2">&nbsp</td></tr>
+                <tr> <td colspan="2" style="font-weight:bold;">Summer 2024</td> </tr>
+                <tr class="calm"> <td class="mono">&nbsp&nbspGT 1000</td> <td>Freshman Seminar</td> </tr>
+                <tr class="calm"> <td class="mono">ENGL 1101</td> <td>English Composition I</td> </tr>
+                <tr> <td class="mono cs">&nbsp&nbspCS 1301</td> <td>Introduction to Computing</td> </tr>
+                <tr> <td class="mono econ">ECON 2106</td> <td>Principles of Microeconomics</td> </tr>
+
+                <tr><td colspan="2">&nbsp</td></tr>
+                <tr> <td colspan="2" style="font-weight:bold;">Fall 2024</td> </tr>
+                <tr class="calm"> <td class="mono">ENGL 1102</td> <td>English Composition II</td> </tr>
+                <tr class="calm"> <td class="mono">MUSI 3131</td> <td>Symphonic Band</td> </tr>
+                <tr class="calm"> <td class="mono">APPH 1050</td> <td>Science of Health and Physical Activity</td> </tr>
+                <tr> <td class="mono math">MATH 2106</td> <td>Foundations of Mathematical Proof</td> </tr>
+                <tr> <td class="mono math">MATH 3012</td> <td>Applied Combinatorics</td> </tr>
+                <tr> <td class="mono phys">PHYS 3143</td> <td>Quantum Mechanics I</td> </tr>
+
+                <tr><td colspan="2">&nbsp</td></tr>
+                <tr> <td colspan="2" style="font-weight:bold;">Spring 2025</td> </tr>
+                <tr> <td class="mono econ">ECON 4340</td> <td>Industrial Organization</td> </tr>
+                <tr> <td class="mono phys">PHYS 4782</td> <td>Quantum Information and Quantum Computing</td> </tr>
+                <tr class="calm"> <td class="mono">MUSI 3311</td> <td>Jazz Ensemble</td> </tr>
+                <tr> <td class="mono cs">&nbsp&nbspCS 4698</td> <td>Research Assistantship</td> </tr>
+                <tr> <td class="mono math">MATH 3406</td> <td>A Second Course in Linear Algebra</td> </tr>
+                <tr> <td class="mono math">MATH 3235</td> <td>Probability Theory</td> </tr>
+                <tr> <td class="mono math">MATH 4107</td> <td>Int Abstract Algebra I</td> </tr>
+
+                <tr><td colspan="2">&nbsp</td></tr>
+                <tr> <td colspan="2" style="font-weight:bold;">Summer 2025 (in progress)</td> </tr>
+                <tr> <td class="mono cs">&nbsp&nbspCS 3510</td> <td>Design and Analysis of Algorithms</td> </tr>
+                <tr> <td class="mono econ">ECON 4180</td> <td>Game Theory I</td> </tr>
+                <!-- <tr> <td class="mono cs">&nbsp&nbspCS 1331</td> <td>Int Object Oriented Programming</td> </tr>
+                <tr> <td class="mono math">MATH 2552</td> <td>Differential Equations</td> </tr> -->
+
+                <tr><td colspan="2">&nbsp</td></tr>
+                <tr> <td colspan="2" style="font-weight:bold;">Fall 2025 (not finalized)</td> </tr>
+                <tr> <td class="mono math">MATH 4317</td> <td>Analysis I</td> </tr>
+                <tr> <td class="mono math">MATH 4150</td> <td>Int Number Theory</td> </tr>
+                <tr> <td class="mono math">MATH 4022</td> <td>Int Graph Theory</td> </tr>
+                <tr> <td class="mono econ">ECON 3110</td> <td>Advanced Microeconomic Analysis</td> </tr>
+                <tr> <td class="mono econ">ECON 4803</td> <td>Economics of Risky Behaviors</td> </tr>
+                <tr class="calm"> <td class="mono">MUSI 3311</td> <td>Jazz Ensemble</td> </tr>
+            </tbody>
+        </table>
     </div>
-    <h2>A list of courses I've taken at Georgia Tech</h2>
-    <p style="font-weight: 600;"> color code:
-        <span class="math">Mathematics</span> |
-        <span class="phys">Physics</span> |
-        <span class="cs">Computer Science</span> |
-        <span class="econ">Economics</span> | 
-        <span class="calm">other</span>
-    </p>
-
-    <table>
-        <tbody>
-            <tr> <td colspan="2" style="font-weight:bold;">credits before Summer 2024</td> </tr>
-            <tr> <td class="mono math">MATH 1551</td> <td>Differential Calculus</td> </tr>
-            <tr> <td class="mono math">MATH 1552</td> <td>Integral Calculus</td> </tr>
-            <tr> <td class="mono phys">PHYS 2211</td> <td>Introductory Physics I</td> </tr>
-            <tr> <td class="mono phys">PHYS 2212</td> <td>Introductory Physics II</td> </tr>
-            <tr class="calm"> <td class="mono">HIST 2111</td> <td>United States to 1877</td> </tr>
-            <tr class="calm"> <td class="mono">PSYC 1101</td> <td>General Psychology</td> </tr>
-            <tr class="calm"> <td class="mono">CHEM 1211K</td> <td>Chemical Principles I</td> </tr>
-            <tr> <td class="mono cs">&nbsp&nbspCS 1XXX</td> <td>[Computer Science elective]</td> </tr>
-            <tr> <td class="mono phys">PHYS 1XXX</td> <td>[Physics elective]</td> </tr>
-            <tr> <td class="mono math">MATH 1554</td> <td>Linear Algebra</td></tr>
-            <tr> <td class="mono math">MATH 2551</td> <td>Multivariable Calculus</td></tr>
-            
-            <tr><td colspan="2">&nbsp</td></tr>
-            <tr> <td colspan="2" style="font-weight:bold;">Summer 2024</td> </tr>
-            <tr class="calm"> <td class="mono">&nbsp&nbspGT 1000</td> <td>Freshman Seminar</td> </tr>
-            <tr class="calm"> <td class="mono">ENGL 1101</td> <td>English Composition I</td> </tr>
-            <tr> <td class="mono cs">&nbsp&nbspCS 1301</td> <td>Introduction to Computing</td> </tr>
-            <tr> <td class="mono econ">ECON 2106</td> <td>Principles of Microeconomics</td> </tr>
-
-            <tr><td colspan="2">&nbsp</td></tr>
-            <tr> <td colspan="2" style="font-weight:bold;">Fall 2024</td> </tr>
-            <tr class="calm"> <td class="mono">ENGL 1102</td> <td>English Composition II</td> </tr>
-            <tr class="calm"> <td class="mono">MUSI 3131</td> <td>Symphonic Band</td> </tr>
-            <tr class="calm"> <td class="mono">APPH 1050</td> <td>Science of Health and Physical Activity</td> </tr>
-            <tr> <td class="mono math">MATH 2106</td> <td>Foundations of Mathematical Proof</td> </tr>
-            <tr> <td class="mono math">MATH 3012</td> <td>Applied Combinatorics</td> </tr>
-            <tr> <td class="mono phys">PHYS 3143</td> <td>Quantum Mechanics I</td> </tr>
-
-            <tr><td colspan="2">&nbsp</td></tr>
-            <tr> <td colspan="2" style="font-weight:bold;">Spring 2025</td> </tr>
-            <tr> <td class="mono econ">ECON 4340</td> <td>Industrial Organization</td> </tr>
-            <tr> <td class="mono phys">PHYS 4782</td> <td>Quantum Information and Quantum Computing</td> </tr>
-            <tr class="calm"> <td class="mono">MUSI 3311</td> <td>Jazz Ensemble</td> </tr>
-            <tr> <td class="mono cs">&nbsp&nbspCS 4698</td> <td>Research Assistantship</td> </tr>
-            <tr> <td class="mono math">MATH 3406</td> <td>A Second Course in Linear Algebra</td> </tr>
-            <tr> <td class="mono math">MATH 3235</td> <td>Probability Theory</td> </tr>
-            <tr> <td class="mono math">MATH 4107</td> <td>Int Abstract Algebra I</td> </tr>
-
-            <tr><td colspan="2">&nbsp</td></tr>
-            <tr> <td colspan="2" style="font-weight:bold;">Summer 2025 (in progress)</td> </tr>
-            <tr> <td class="mono cs">&nbsp&nbspCS 3510</td> <td>Design and Analysis of Algorithms</td> </tr>
-            <tr> <td class="mono econ">ECON 4180</td> <td>Game Theory I</td> </tr>
-            <!-- <tr> <td class="mono cs">&nbsp&nbspCS 1331</td> <td>Int Object Oriented Programming</td> </tr>
-            <tr> <td class="mono math">MATH 2552</td> <td>Differential Equations</td> </tr> -->
-
-            <tr><td colspan="2">&nbsp</td></tr>
-            <tr> <td colspan="2" style="font-weight:bold;">Fall 2025 (not finalized)</td> </tr>
-            <tr> <td class="mono math">MATH 4317</td> <td>Analysis I</td> </tr>
-            <tr> <td class="mono math">MATH 4150</td> <td>Int Number Theory</td> </tr>
-            <tr> <td class="mono math">MATH 4022</td> <td>Int Graph Theory</td> </tr>
-            <tr> <td class="mono econ">ECON 3110</td> <td>Advanced Microeconomic Analysis</td> </tr>
-            <tr> <td class="mono econ">ECON 4803</td> <td>Economics of Risky Behaviors</td> </tr>
-            <tr class="calm"> <td class="mono">MUSI 3311</td> <td>Jazz Ensemble</td> </tr>
-        </tbody>
-    </table>
 </body>

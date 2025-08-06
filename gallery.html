@@ -6,22 +6,26 @@
     <title>Gallery - Bradley McGhee</title>
     <link rel="stylesheet" href="fonts.css">
     <link rel="stylesheet" href="theme.css">
+
     <style>
-        code{white-space:× pre-wrap;}
-        span.smallcaps{font-variant: small-caps;}
-        div.columns{display: flex; gap: min(4vw, 1.5em);}
-        div.column{flex: auto; overflow-x: auto;}
-        div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-        /* The extra [class] is a hack that increases specificity enough to
-        override a similar rule in reveal.js */
-        ul.task-list[class]{list-style: none;}
-        ul.task-list li input[type="checkbox"] {
-        font-size: inherit;
-        width: 0.8em;
-        margin: 0 0.8em 0.2em -1.6em;
-        vertical-align: middle;
+        .tile {
+            float: left;
+            width: 250px;
+            margin: 0 10px 0 10px;
+            height: 350px;
         }
-        .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+
+        .tile img {
+            width: 100%;
+            border: 1px solid #ccc;
+            margin: 0 auto;
+            display: block;
+            border-radius: 10px
+        }
+
+        .tile p {
+            font-weight: 350;
+        }
     </style>
 </head>
 
@@ -29,14 +33,26 @@
     <div id="container">
         <header>
             <h1 id="name">Bradley J. McGhee</h1>
-            <div id="tagline">everyone's favorite math major</div>
+            <div id="tagline">mathematics student at Georgia Tech</div>
             <br>
             <nav>
                 <ul id="navigation">
-                    <li><a class="navlink" href="./index.html">about</a></li>
-                    <li><a class="navlink" href="./resume.pdf">resume</a></li>
-                    <li><a class="navlink" href="./gallery.html">gallery</a></li>
-                    <li><a class="navlink" href="./courses.html">courses</a></li>
+                    <li><a href="./index.html">about</a></li>
+                    <li><a href="./resume.pdf">resume</a></li>
+                    <li><a>links</a>
+                        <ul id="submenu">
+                            <li><a href="https://linkedin.com/in/bjmcghee">linkedin</a></li>
+                            <li><a href="https://github.com/nptnl">github</a></li>
+                            <li><a href="https://wellfound.com/u/bradley-mcghee">wellfound</a></li>
+                        </ul>
+                    </li>
+                    <li><a>stuff</a>
+                        <ul id="submenu">
+                        <li> <a href="./gallery.html">gallery</a> </li>
+                        <li> <a href="./courses.html">courses</a> </li>
+                        <li> <a href="./books.html">reading</a> </li>
+                    </ul>
+                </li>
                 </ul>
               </nav>
         </header>

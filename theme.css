@@ -90,10 +90,6 @@ li:hover #submenu {
     opacity: 1;
 }
 
-li.active #submenu {
-    visibility: visible;
-    opacity: 1;
-}
 
 #senpic {
     border: 1px solid #ccc;

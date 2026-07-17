@@ -20,6 +20,11 @@ header {
     margin: 0 auto;
 }
 
+#big-container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
 #name {
     font-weight: 450;
     font-size: 48px;
@@ -97,6 +102,13 @@ li:hover #submenu {
     display: block;
     margin: 0 auto;
     float: center;
+}
+
+#senpic-div {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    flex-wrap: wrap;
 }
 
 #blurb {

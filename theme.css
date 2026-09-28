@@ -1,10 +1,20 @@
-.mono {
-    font-family: 'SFMono';
+:root {
+    --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    --font-mono: "JetBrains Mono", "SF Mono", "SFMono-Regular", "Consolas", "Liberation Mono", monospace;
+}
+
+.mono,
+code,
+pre,
+kbd,
+samp {
+    font-family: var(--font-mono);
     font-weight: 550;
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: var(--font-sans);
+    letter-spacing: 0.008em;
     /* background-color: #c7edff; */
     background-color: #303030;
     color: white;
@@ -68,29 +78,36 @@ nav {
     padding: 0;
 }
 
-#navigation li {
+#navigation > li {
     display: inline-block;
+    position: relative;
     width: 18%;
     font-size: 20px;
 }
 
-#submenu {
-    padding: 0px;
+.submenu {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
     opacity: 0;
     visibility: hidden;
     position: absolute;
+    top: 100%;
+    left: 0;
     border: 1px solid #ccc;
     background-color: #333;
 }
 
-#submenu li {
-    float: left;
-    position: relative;
+.submenu li {
+    display: block;
     width: 100%;
     font-size: 20px;
 }
 
-li:hover #submenu {
+#navigation > li:hover > .submenu,
+#navigation > li.is-open > .submenu {
     visibility: visible;
     opacity: 1;
 }
@@ -131,7 +148,27 @@ li:hover #submenu {
     text-indent: 32px;
 }
 
+.essay-header {
+    text-align: left;
+}
+
+.essay-header h1 {
+    margin: 0;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 1.15;
+}
+
+.essay h2 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.25;
+}
+
+.essay-header .byline {
+    text-indent: 0;
+}
+
 .calm {
     color: #ccc;
 }
-

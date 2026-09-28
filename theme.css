@@ -165,6 +165,11 @@ nav {
     line-height: 1.25;
 }
 
+.essay p,
+.essay li {
+    line-height: 1.5;
+}
+
 .essay-header .byline {
     text-indent: 0;
 }

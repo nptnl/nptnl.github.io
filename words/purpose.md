@@ -45,8 +45,8 @@ But that question still rings in my ears, unrelenting; it still feels unanswered
 
 I can't head into a PhD program because I like the way math has been.
 It would be foolish to hope that nothing will change.
-I'm going to change in the next several years, and in today's world it seems quite clear that the practice of math will change drastically.
-I can't predict where these changes will lead us—but I *can* predict that they will take us somewhere.
+I'm going to change in the next several years, and in today's world it's quite clear that the practice of math will change drastically.
+I can't predict where these changes will lead us—but I know we are headed somewhere new.
 
 Math is headed for rough seas, for an outcome of high variance.
 My question is whether to venture into those seas; I cannot pretend the field of math will stay constant.

@@ -1,6 +1,6 @@
-# An argument for doing math
+Created **November 11, 2026**.
 
-**November 11, 2026** - *I started writing a grad school application and it spun out into this. Unfortunately math programs don't even take personal essays.*
+# An argument for doing math
 
 "You want a PhD in math? *Now?*"
 

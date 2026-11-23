@@ -28,6 +28,12 @@
     font-style: italic;
     color: #daa9ff
 }
+.essaylabel {
+    font-weight: 700;
+    font-style: italic;
+    color: #b5beff
+}
+
 .name {
     color: #ffffff;
 }

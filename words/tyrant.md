@@ -1,6 +1,6 @@
-# The tyrant of the virtues
+Created **September 28, 2026** and modified **November 23, 2026** for writing style.
 
-**September 28, 2026** — *a first draft that will be changed if I am not lazy*
+# The tyrant of the virtues
 
 My field, math, is largely right at the point of panicking about the effects of AI, both in terms of the careers of mathematicians and the joy of doing math.
 I am lucky and unlucky to be studying math right now—I’m seeing real uncertainty in my future earlier than most, but I’m also asking the questions that *everyone* in science needs to be asking rather soon.
@@ -14,92 +14,86 @@ I’ve always been a smaller guy, and I go to the gym to enjoy myself, not to be
 Besides the unexpectedness of that interaction, I wouldn’t pay much attention to its memory.
 I think this is true of most people in our time.
 Physical strength is a good quality that people can have, and that they can work towards—a virtue— but it’s not one that our world really cares about.
-Unlike in ancient days, your strength will not get you a job, or grant you higher status, or make other people feel inferior to you.
+Your strength will not get you a job, or grant you higher status, or earn you more respect from others.
 The same is true of most of our other virtues:
 
-- Your *discipline* can help you work towards your goals and achieve them, but nobody really talks about discipline. No one measures themselves according to discipline.
-- Your *compassion* may be recognized by people close to you, but will hardly affect your place in society.
+- Your *discipline* can help you work towards your goals and achieve them, but it largely doesn't show itself socially. No one will measure you according to discipline, and no one will compare themselves to your discipline.
+- Your *compassion* may be recognized by people close to you, but will hardly affect your place in the world.
 - Your *creativity* could lead you to fare well in some careers and subcultures, but those are rare. Most exceptionally creative people aren’t noticed.
 - Your *honesty* will, more often than not, end up a hindrance to your professional life.
 - Your *sociability* is no longer a point of pride. It won’t affect your performance at work or school.
 - Your *courage* is rarely necessary; *necessity* itself is a foreign concept to us now.
 
 These qualities are all profoundly good elements to one’s personal life.
-The wider world we inhabit, however, must evaluate us; we must base our sense of who is “desirable” on some combination of the virtues.
+The world we inhabit, however, must evaluate us; we must base our sense of who is “desirable” on some combination of the virtues.
 In my lifetime, this combination has been shaped, above all, by *intelligence*.
-The other virtues, in our time, are of comparatively little importance.
+The other virtues are of comparatively little importance.
 
-If you were to approach me today and tell me “you’re stupid,” it would come off a little differently.
-Even in writing, *stupid* seems such a dirty utterance.
-I might be alright with it after writing this piece, but I’d wager that few young adults would take your remark sitting down. Today, questioning someone’s intelligence is received worse than questioning their trustworthiness, or their friendliness. Those other virtues are hardly even seen as something to strive to.
-People my age will gladly say “I’m an introvert. I hate people,” or “I have no discipline; I just can’t stop picking up my phone,” and still see themselves as equal to, or better than, their peers.
+Hence, if you were to approach me today and tell me “you’re stupid,” it would come off a little differently.
+Even in writing, *stupid* seems to ring; it's a dirty utterance.
+I'd wager that very few young people would take such an insult well.
+Today, questioning someone’s intelligence is received worse than questioning their trustworthiness, or their friendliness.
+Those other virtues are hardly even seen as something to strive towards.
 
-There is, however, one surefire way to get people to feel drastically inferior to their friends—show them a room of really smart people.
+Sometimes, people will openly flaunt their *lack* of some other virtue, so long as their intelligence is not questioned.
+For instance, as a lack of sociability tends to express, "I'm an introvert. I'm not really a social person. I don't like people."
+Similarly, a lack of discipline expresses, "Look at my screen time, it's *sooo* bad."
+We betray the other virtues in service of just one.
 How did our intelligence reach such a position? How did it become the tyrant of the virtues?
-This tyranny is not inherent to anything about humans, but is a temporary circumstance of the industrial age.
 
 ## The tyrant’s past
 
-Before civilizations developed, we obeyed a simple rule: if you are a human, your life revolves around securing food.
-As we evolved the complexities of our languages, we traveled in small tribes to hunt and forage the bounties of the Earth.
-We developed techniques and made plans, but none were so complicated as to require “high intelligence” by our modern standards.
-Much more important were one’s ability to run after an animal, or win the respect of one’s peers, or tell a good campfire story at nightfall.
-Our highest virtues were strength, endurance, agency, and cooperation. These were traits you needed if you wanted to keep your family alive.
-When we thought about ourselves, the humans, against the rest of the world, we saw that we, unlike the animals or the stones, had agency.
-We could choose good or evil, and this defined us.
+In the ancestral environment, we needed intelligence—but we much more direly needed the other virtues.
+Your survival may depend on your ability to run after an animal, or win the respect of peers, or fight to defend others, or tell a good campfire story.
+Forgetting the virtues behind these abilities led only to death.
+As we developed civilizations, upper classes developed which were isolated from the daily struggles for food and safety.
+Those people probably aspired to intelligence, among other traits, but we know from their writing that they still had more important virtues in mind.
+A human was something which could act on the world, develop goals, choose good or evil, or connect with the divine.
 
-When civilizations first developed there arose a small upper-class isolated from the daily struggles for food.
-We had kings, administrators, priests, generals, and nobility.
-These people probably developed some sense of aspiration to intelligence, among other traits, but they were confined to a very small segment of the population.
-The aristocracy was the exception, and not the rule. In those days, as societies became more tightly bound, our goals became fixed on the admiration of the social world around us.
-We wanted to attain glory, we wanted to be noble, and we wanted to be honored while living and when dead.
-
-Only the industrial revolution brought to all of us what the dawn of civilization brought to some of us.
+The industrial revolution changed this.
 In a world of machines, we no longer valued the physical “push” of man.
-Our role was now to think; we now saw the human as the one who thinks.
+Our role was now to think; we identified the human as the one who thinks.
 Thinking solved problems for us—thinking could invent new processes, or organize our efforts, or help us provide more bounty for everyone.
-For a long time before this, the most influential in our society were associated with intelligence—the great conquerers were students of strategy, the great politicians were students of philosophy, and the great artists were also great scientists and thinkers.
-But only in the industrial age did we get the notion that the *common person* could become moderately more successful by being smarter.
-Today, you can “move up” by getting a more prestigious or better-paying job, or starting a business, or attaining higher education. Intelligence may have exerted power over small populations of nobility for centuries, but its recent rise over our entire world is unprecedented, and comes as a result of the industrial revolution.
+Before this, many important people were associated with intelligence—the great conquerers were students of strategy, the great politicians were students of philosophy, and the aristocracy were uniquely educated.
+But only in the industrial age can the *common person* could become more successful by being smarter.
+Today we have the ability to move up—score a better job, start a business, or seek education—but this ability is contingent on intelligence.
+If we want to succeed in this way, we all must serve the tyrant.
 
 ## A loyal subject
 
-For most of my life my identity heavily relied on my intelligence.
-Perhaps this is true of many or most Tech students—we pursued math or science because they were respected and they were hard, and we got upset as children when other people scored higher on exams than us.
+For most of my own life, my identity relied heavily on intelligence.
+This is true of many or most university students—we pursued science because it was respected, and we got upset as children when we didn't score the highest on an exam.
 
 I remember feeling particularly lost when I entered middle school.
-Previously I had confidently considered myself the smartest kid at school, and this was a salient thing I would think of when I looked in the mirror—I had an ego and a half.
-When I discovered someone who was further ahead of me in learning math and science, however, I felt like my own social role was stripped away from me.
+I had considered my intelligence as the salient thing about me—when I looked in a mirror I saw the smartest kid at the school.
+When I inevitably discovered someone who was far ahead of me in learning math and physics, I felt my role was stripped away from me.
 I denied; I told my friends that she wasn’t “really smart” and that she “just worked hard at it”.
 I worked; I tried to find ways to get further and further “ahead”.
-I panicked; I wondered what my friends thought of me without my sense of superiority.
-It didn’t take long, however, before I regained that sense and once again proclaimed that I had an even greater gift.
+I panicked; I wondered what my friends thought of me without my role.
+Over time I ended up rationalizing my way to restoring this identity, and a sense of superiority.
+I wasn't able to accept a vision of myself without intelligence—I served the tyrant.
 
-Through my childhood, I spent a huge portion of my free time learning math and physics; I wanted to feel like I was becoming smarter, becoming more distinguished.
-I felt most at home in a classroom because it was where I could feel recognized; I felt most at home in math and physics because these subjects were the “real smart” ones.
-Entering college, I realized I could work towards and achieve the positions in the world I admired—theoretical physicist, mathematician, quant, researcher.
-These people, I observed, were almost universally respected; their work every day was proof that they were *smarter than you*.
-I wanted to work on hard problems, engage in real thinking, be respected, surround myself with intelligent people, and get paid.
-I wanted my intelligence to be the thing that made me special; I wanted it to make me human.
-
-I wanted to show myself and show the world that I could be rational, and that I could pursue intuitions, and that I could see patterns and build theories.
-I wanted to prove my humanity, to prove that I was worthy of respect and recognition, in this way.
+I spent more of my free time learning; I wanted to feel I was becoming smarter, more distinguished.
+I felt at home in a classroom, for it was where I would feel recognized; I studied math and physics because I saw them as "smarter" than the other fields.
+I looked up to people with careers that proclaimed their intelligence—researcher, mathematician, quant, CEO, physicist.
+I wanted my intelligence to make me special; I wanted it to prove my worth and my humanity.
 
 ## The tyrant’s future
 
 Unfortunately, the 2020s seem like they might change the way we see our humanity.
-Of course, there’s presently still some speculation and controversy surrounding our AI advances, but it seems reasonable that our ability to reason mathematically or scientifically is not a unique human quality.
+Of course, there’s presently speculation and controversy surrounding our AI advances, but it seems reasonable that our ability to reason mathematically or scientifically is not a unique human quality.
+Earlier I noted how harsh it is to call someone dumb.
+We all strive to show our worth and our humanity—and in our world, doubting one's intelligence is doubting their worth.
 
-Earlier I noted how harsh it is to call someone dumb, but there are other labels we tend to despise even more.
-As I hinted at in my own case, I think we all strive to show our humanity—we seek to prove that we, too, are worthy of respect and recognition and that we are the “masters” of ourselves, and in some cases of others.
-From this lens, it’s clear that emphasizing any ability or virtue that is *not* specific to humans is not a good path.
-Someone who prides themselves too much on being strong and bulky is bound to, in the eyes of others, become a "beast".
-No one wants to be a beast; no one wants to define themselves on their strength, ignoring the true *human* virtues.
-No one wants to be a “cog in the machine”, a “tool”, or an “engine”.
-This is because, since the industrial revolution, we’ve produced things of the Earth that are the cogs and the machines. These capacities are no longer uniquely human ones—so we, seeking to differentiate ourselves as humans, cannot be content as just a simple worker or craftsman.
+It's clear that overemphasizing any virtue or ability that is *not* specific to humans is a bad path:
+Someone overly strong or bulky becomes a *beast*; someone overly obedient or persistent becomes a *machine*.
+We insult these types of people because their singular virtue is shared by something else in the world—it's not uniquely human.
 
-In the present we are emerging toward a world in which the software engineer is the worker and the mathematician is the craftsman.
+Presently we are emerging towards a world in which intelligence is no longer uniquely human.
 What we regarded as the most prized of our abilities, the logical problem-solving process, may now be brought down to worldly entities.
+I predict this will change our perception of problem-solving in our lives.
+The scientists are no longer the pinnacles of that human endeavor of reasoning—they are imitations of the reasoning machines.
+
 It is therefore very plausible that our societies will dictate a rearrangement of our virtues.
 If problem-solving jobs are done by new machines, then we will no longer, on a large scale, seek to train our problem-solving process; we will no longer collectively aspire to the virtue of intelligence.
 Perhaps our jobs and positions of prestige will be determined less and less by intelligence and more and more by some other combination of virtues—honesty, agency, friendliness, creativity, discipline, or something else.
@@ -109,6 +103,5 @@ Perhaps words like *liar* or *hermit* will be our new worst degradations, replac
 So long as it is replaced by a more balanced combination, we will end up celebrating and aspiring to more of the virtues with which we are blessed.
 This I perceive to be a *good thing*.
 We should identify with more aspects of humanity.
-
 When we look back upon our history, we should not forget our connection to the valor of the warriors and soldiers, the diligence of the monks and scholars, the passion of the protesters and revolutionaries, the originality of the artists and philosophers, the integrity of the judges and rulers, or the kindness of the mothers and fathers and lovers and friends. We should not let our tyrant, intelligence, blind us to these connections.
 I hope to see a future in which the tyrant is overthrown.
